@@ -1,3 +1,3 @@
-# Data-Analytics-Project
+# Data-Analytics-Project Repository 
 
-projects on different skills
+This contain all the basic projects of Data Analytics portfolios project using Python 
